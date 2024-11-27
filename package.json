@@ -1,16 +1,15 @@
 {
   "name": "web-lab05",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "",
+  "main": "index.html",  // 修改这里
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "devDependencies": {
-    "parcel": "^2.13.2"
+    "parcel": "^2.0.0"
   }
 }
